@@ -1,0 +1,14 @@
+C:\Users\Apick\source\repos\Skillbox\Skillbox\bin\Debug\netcoreapp3.1\Skillbox.exe
+C:\Users\Apick\source\repos\Skillbox\Skillbox\bin\Debug\netcoreapp3.1\Skillbox.deps.json
+C:\Users\Apick\source\repos\Skillbox\Skillbox\bin\Debug\netcoreapp3.1\Skillbox.runtimeconfig.json
+C:\Users\Apick\source\repos\Skillbox\Skillbox\bin\Debug\netcoreapp3.1\Skillbox.runtimeconfig.dev.json
+C:\Users\Apick\source\repos\Skillbox\Skillbox\bin\Debug\netcoreapp3.1\Skillbox.dll
+C:\Users\Apick\source\repos\Skillbox\Skillbox\bin\Debug\netcoreapp3.1\Skillbox.pdb
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.csproj.AssemblyReference.cache
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.AssemblyInfoInputs.cache
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.AssemblyInfo.cs
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.csproj.CoreCompileInputs.cache
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.dll
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.pdb
+C:\Users\Apick\source\repos\Skillbox\Skillbox\obj\Debug\netcoreapp3.1\Skillbox.genruntimeconfig.cache

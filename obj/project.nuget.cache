@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3mt+pYy9QJdTL6GH//diFrKUJXmAWHQDdCitupgabag4VksnHL4B0eM5iN8FqsKQeAjigYn1+RR4qiaKd+uQcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apick\\source\\repos\\Skillbox\\Skillbox\\Skillbox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Apick\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Apick\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
